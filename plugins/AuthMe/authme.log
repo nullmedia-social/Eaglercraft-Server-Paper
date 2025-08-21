@@ -23,3 +23,6 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+[08-21 15:09:52]: [FINE] KingNullboy registered 0:0:0:0:0:0:0:1%0
+[08-21 15:09:52]: [FINE] KingNullboy logged in 0:0:0:0:0:0:0:1%0
+[08-21 15:13:32]: [FINE] KingNullboy logged in 0:0:0:0:0:0:0:1%0
